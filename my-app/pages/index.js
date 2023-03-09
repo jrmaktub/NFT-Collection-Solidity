@@ -9,7 +9,7 @@ import {abi, NFT_CONTRACT_ADDRESS} from "../constants"
 import styles from '@/styles/Home.module.css'
 
 // const inter = Inter({ subsets: ['latin'] })
-
+//test
 export default function Home() {
 
   // walletConnected keep track of whether the user's wallet is connected or not
